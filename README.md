@@ -4,3 +4,6 @@
 
 
 ffmpeg -i rtsp://192.168.2.173:8554/test -vcodec copy -acodec copy -f flv rtmp://localhost:1935/live/livestream
+
+
+https://wenku.baidu.com/view/97f4d3d7e45c3b3566ec8b3d.html
