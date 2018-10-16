@@ -80,7 +80,12 @@ rtsp://192.168.31.224:554/Streaming/Channels/102?transportmode=unicast&amp;profi
 
 六、
 霍尼韦尔：
+
 每个系列不一样,尝试一下
+
 rtsp://user:password@ip:554/ch01
+
 rtsp:/user:password@ip:554/media?stream=1
+
 rtsp:/user:password@ip:554/ch01.264?ptype=upd
+
